@@ -5,7 +5,7 @@ The repo structure is based on the lecture numbers (lectures are available on [Y
 ## Roadmap
 - [x] lecture 6
 - [x] lecture 7
-- [ ] lecture 8
+- [x] lecture 8
 - [ ] lecture 9
 - [ ] lecture 10
 - [ ] lecture 11
